@@ -27,4 +27,4 @@ raytracer.hpp -> line(12-16)
 raytracer.cpp -> line(34-78)
 main.cpp -> line(115-126)
 
-Lastly again to play around with values do changes in line (157-159) in raytracer.cpp
+Lastly, again to play around with values do changes in line (157-159) in raytracer.cpp
